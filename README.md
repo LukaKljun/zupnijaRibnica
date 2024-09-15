@@ -1,2 +1,2 @@
 # zupnijaRibnica
-Spletba stran župnije Ribnica
+Spletna stran župnije Ribnica
